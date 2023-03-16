@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ## Usage
 
 To run the simulation, pass a CSV file containing the team metrics (team name, seed, and KenPom score) as an argument to
-the `main.py` script:
+the `tournament.py` script:
 
 `python3 tournament.py teams.csv`
 
