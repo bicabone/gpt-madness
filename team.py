@@ -15,7 +15,7 @@ class Team:
     def would_upset(self, other_team):
         return self.seed < other_team.seed
     def is_better_kenpom(self, other_team):
-        return self.metric > other_team.seed
+        return self.metric > other_team.metric
 
     @classmethod
     def extract_teams(cls, file_path: str):
