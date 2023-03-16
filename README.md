@@ -1,6 +1,6 @@
 # NCAA Basketball Tournament Simulation
 
-This project is a command-line tool for simulating the NCAA basketball tournament results with KenPom scores.
+This project is a command-line tool for simulating the NCAA basketball tournament results with KenPom scores, written via ChatGPT~4.
 
 We make a probability distribution using kenpom scores, which we sample from for thousands of tournaments. We then use the frequencies from this simulation to create new power scores that now consider the graph structure of the tournament, and we do one final run. 
 
