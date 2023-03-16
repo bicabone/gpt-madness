@@ -1,7 +1,6 @@
 # NCAA Basketball Tournament Simulation
 
-This project is a command-line tool for simulating the NCAA basketball tournament using a Markov chain model based on
-team seeds and KenPom scores.
+This project is a command-line tool for simulating the NCAA basketball tournament results with KenPom scores.
 
 ## Installation
 
