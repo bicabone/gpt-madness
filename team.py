@@ -14,12 +14,14 @@ class Team:
 
     def would_upset(self, other_team):
         return self.seed < other_team.seed
+
     def is_better_kenpom(self, other_team):
         return self.metric > other_team.metric
 
     @classmethod
-    def extract_teams(cls, file_path: str):
-        with open(os.path.join(PARENT_DIR, file_path), "r", newline="") as csvfile:
+    def extract_teams(cls, **kwargs):
+        file = kwargs.get("file")
+        with open(os.path.join(PARENT_DIR, file), "r", newline="") as csvfile:
             return [cls(
                 name=row["team"],
                 seed=int(row["seed"]),
