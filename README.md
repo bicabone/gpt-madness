@@ -8,12 +8,11 @@ We make a probability distribution using kenpom scores, which we sample from for
 
 1. Create and activate a virtual environment (optional):
 
-```bash
-python -m venv venv
-source venv/bin/activate # On Windows, use venv\Scripts\activate
-```
-
-3. Install the dependencies:
+  ```bash
+  python -m venv venv
+  source venv/bin/activate # On Windows, use venv\Scripts\activate
+  ```
+2. Install the dependencies:
 
 ```bash
 pip install -r requirements.txt
