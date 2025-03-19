@@ -1,338 +1,414 @@
 /home/blake/.virtualenvs/gpt-madness/bin/python /home/blake/gpt-madness/tournament.py
-Winner: Saint Mary's
+Winner: Purdue
 Winner: Duke
-Winner: Duke
-Winner: Duke
-Winner: Duke
-Winner: Tennessee
-Winner: St. John's
-Winner: BYU
-Winner: Michigan
-Winner: Clemson
-Winner: Alabama
-Winner: Florida
-Winner: Duke
-Winner: Oregon
-Winner: New Mexico
-Winner: Duke
-Winner: Tennessee
-Winner: Auburn
-Winner: Florida
-Winner: Alabama
-Winner: Michigan
-Winner: Auburn
-Winner: Auburn
-Winner: Iowa St.
-Winner: Florida
-Winner: Auburn
-Winner: Texas Tech
-Winner: Texas Tech
-Winner: Duke
-Winner: Florida
-Winner: Maryland
-Winner: Florida
-Winner: Alabama
-Winner: Duke
-Winner: Illinois
-Winner: Houston
-Winner: Houston
-Winner: Houston
-Winner: Duke
-Winner: Alabama
-Winner: Tennessee
-Winner: Missouri
-Winner: Florida
-Winner: Florida
-Winner: Alabama
-Winner: Houston
-Winner: Auburn
-Winner: Florida
-Winner: Houston
-Winner: Duke
-Winner: St. John's
-Winner: Michigan
 Winner: Mississippi
+Winner: Kentucky
+Winner: Florida
+Winner: UCLA
+Winner: Tennessee
+Winner: Michigan
+Winner: Michigan
+Winner: Kentucky
+Winner: Florida
+Winner: Auburn
+Winner: Arizona
+Winner: Wisconsin
+Winner: Tennessee
+Winner: Tennessee
+Winner: Houston
+Winner: Auburn
+Winner: Houston
+Winner: Houston
+Winner: Houston
+Winner: Illinois
+Winner: Tennessee
+Winner: Alabama
+Winner: Wisconsin
+Winner: Alabama
+Winner: Wisconsin
+Winner: Maryland
+Winner: Auburn
 Winner: Saint Mary's
 Winner: Houston
+Winner: Duke
+Winner: Auburn
+Winner: Arizona
 Winner: Tennessee
-Winner: Clemson
-Winner: Iowa St.
+Winner: Michigan
+Winner: Duke
+Winner: Texas Tech
+Winner: Florida
 Winner: Auburn
 Winner: Duke
-Winner: Michigan St.
-Winner: Missouri
-Winner: Florida
-Winner: Florida
-Winner: Duke
-Winner: Florida
+Winner: Auburn
+Winner: Houston
+Winner: UCLA
+Winner: Houston
+Winner: Arkansas
+Winner: Auburn
+Winner: Houston
+Winner: Wisconsin
+Winner: Purdue
 Winner: Tennessee
-Winner: Maryland
+Winner: Georgia
+Winner: Alabama
+Winner: Alabama
 Winner: Duke
-Winner: Duke
-Winner: Tennessee
-Winner: Florida
 Winner: St. John's
+Winner: Wisconsin
+Winner: Auburn
+Winner: Tennessee
+Winner: BYU
 Winner: Florida
 Winner: Maryland
+Winner: Texas Tech
+Winner: Florida
+Winner: Florida
 Winner: Auburn
+Winner: Florida
+Winner: Georgia
+Winner: Mississippi
+Winner: Marquette
+Winner: Kentucky
+Winner: Alabama
+Winner: Houston
+Winner: Missouri
+Winner: Illinois
+Winner: Texas Tech
+Winner: Auburn
+Winner: St. John's
+Winner: Mississippi St.
+Winner: Wisconsin
+Winner: Maryland
+Winner: Florida
+Winner: Alabama
+Winner: Florida
+Winner: Texas Tech
+Winner: Wisconsin
+Winner: UC San Diego
+Winner: Utah St.
+Winner: Duke
+Winner: Florida
+Winner: Tennessee
 Winner: Kansas
-Winner: Duke
-Winner: Duke
+Winner: Tennessee
+Winner: Tennessee
+Winner: Auburn
+Winner: Auburn
+Winner: Tennessee
+Winner: Auburn
+Winner: Auburn
 Winner: Texas Tech
-Winner: Florida
-Winner: Texas Tech
-Winner: Wisconsin
-Winner: Houston
-Winner: BYU
-Winner: Auburn
-Winner: Wisconsin
-Winner: Tennessee
-Winner: Duke
-Winner: Duke
-Winner: Gonzaga
-Winner: Arizona
-Winner: Auburn
-Winner: Wisconsin
-Winner: Michigan St.
-Winner: UCLA
-Winner: Marquette
-Winner: Arizona
-Winner: Connecticut
-Winner: Gonzaga
-Winner: Gonzaga
-Winner: Auburn
-Winner: Duke
-Winner: Florida
-Winner: Missouri
-Winner: Creighton
-Winner: Houston
-Winner: Houston
-Winner: Texas A&M
-Winner: Alabama
-Winner: Houston
-Winner: Maryland
-Winner: Duke
-Winner: Missouri
-Winner: Tennessee
-Winner: Wisconsin
-Winner: Texas A&M
 Winner: Iowa St.
-Winner: Auburn
-Winner: Iowa St.
-Winner: Connecticut
-Winner: Florida
-Winner: Duke
-Winner: Houston
-Winner: Wisconsin
-Winner: Houston
-Winner: Missouri
-Winner: St. John's
-Winner: Alabama
-Winner: Marquette
-Winner: Wisconsin
-Winner: Illinois
-Winner: Michigan
-Winner: Florida
-Winner: Auburn
-Winner: Duke
-Winner: Auburn
-Winner: Tennessee
-Winner: UCLA
-Winner: Purdue
-Winner: Maryland
-Winner: Kentucky
-Winner: Florida
 Winner: Oregon
-Winner: Iowa St.
-Winner: Mississippi
-Winner: Tennessee
-Winner: Auburn
-Winner: Florida
-Winner: Purdue
-Winner: Florida
-Winner: Iowa St.
-Winner: Michigan St.
-Winner: Gonzaga
-Winner: Kentucky
 Winner: Duke
-Winner: Florida
+Winner: Tennessee
 Winner: Texas A&M
-Winner: Florida
-Winner: Texas A&M
-Winner: Baylor
-Winner: Florida
-Winner: Wisconsin
-Winner: Duke
-Winner: Michigan St.
-Winner: Duke
-Winner: North Carolina
-Winner: Houston
-Winner: Florida
-Winner: Missouri
-Winner: Tennessee
-Winner: Duke
-Winner: Arizona
-Winner: St. John's
-Winner: Kentucky
-Winner: Auburn
-Winner: Auburn
-Winner: Wisconsin
-Winner: Michigan St.
-Winner: Auburn
-Winner: Missouri
-Winner: North Carolina
-Winner: Houston
-Winner: Alabama
-Winner: Tennessee
-Winner: Clemson
-Winner: BYU
 Winner: Maryland
 Winner: Tennessee
-Winner: Tennessee
 Winner: Florida
-Winner: Michigan St.
+Winner: Texas Tech
+Winner: Arizona
+Winner: Creighton
+Winner: Duke
+Winner: Wisconsin
+Winner: Duke
+Winner: Texas Tech
+Winner: Marquette
 Winner: Houston
-Winner: St. John's
-Winner: Michigan St.
+Winner: Houston
+Winner: Texas Tech
+Winner: Alabama
+Winner: Memphis
+Winner: Alabama
+Winner: Florida
+Winner: Alabama
+Winner: Alabama
+Winner: Texas A&M
+Winner: Duke
+Winner: Wisconsin
+Winner: Duke
 Winner: Duke
 Winner: Florida
-Winner: Auburn
-Winner: Saint Mary's
+Winner: Missouri
+Winner: Oregon
+Winner: Texas A&M
+Winner: Houston
+Winner: Texas A&M
+Winner: Wisconsin
+Winner: Houston
+Winner: Baylor
+Winner: Michigan St.
+Winner: Louisville
+Winner: Purdue
 Winner: Tennessee
-[('Duke', 1.0), ('Michigan St.', 1), ('Florida', 0.9615384615384615), ('Auburn', 0.6538461538461537), ('Tennessee', 0.5384615384615384), ('Houston', 0.5384615384615384), ('Alabama', 0.2692307692307693), ('Wisconsin', 0.2692307692307693), ('Missouri', 0.23076923076923078), ("St. John's", 0.1923076923076923), ('Iowa St.', 0.1923076923076923), ('Maryland', 0.1923076923076923), ('Michigan', 0.11538461538461538), ('Texas Tech', 0.11538461538461538), ('Gonzaga', 0.11538461538461538), ('Texas A&M', 0.11538461538461538), ("Saint Mary's", 0.07692307692307691), ('BYU', 0.07692307692307691), ('Clemson', 0.07692307692307691), ('Arizona', 0.07692307692307691), ('Kentucky', 0.07692307692307691), ('Oregon', 0.038461538461538464), ('Illinois', 0.038461538461538464), ('Mississippi', 0.038461538461538464), ('UCLA', 0.038461538461538464), ('Marquette', 0.038461538461538464), ('Connecticut', 0.038461538461538464), ('Purdue', 0.038461538461538464), ('North Carolina', 0.038461538461538464), ('New Mexico', 0.0), ('Kansas', 0.0), ('Creighton', 0.0), ('Baylor', 0.0)]
+Winner: Auburn
+Winner: Texas A&M
+Winner: Iowa St.
+Winner: Texas Tech
+Winner: Texas Tech
+Winner: Tennessee
+Winner: Duke
+Winner: Marquette
+Winner: Saint Mary's
+Winner: Florida
+Winner: Duke
+Winner: Duke
+Winner: Texas Tech
+Winner: Purdue
+Winner: Duke
+Winner: Duke
+Winner: Wisconsin
+Winner: St. John's
+Winner: Auburn
+Winner: Arizona
+Winner: Tennessee
+Winner: Florida
+Winner: Duke
+Winner: Texas A&M
+Winner: UCLA
+Winner: Iowa St.
+Winner: Duke
+Winner: Missouri
+Winner: Duke
+Winner: Iowa St.
+Winner: Duke
+Winner: Wisconsin
+Winner: Auburn
+Winner: Michigan
+Winner: Iowa St.
+Winner: Michigan
+Winner: Texas A&M
+Winner: Michigan
+Winner: Duke
+Winner: Wisconsin
+Winner: Michigan St.
+Winner: Duke
+Winner: Alabama
+Winner: Illinois
+Winner: Michigan St.
+Winner: Arizona
+Winner: Illinois
+Winner: Memphis
+Winner: Houston
+Winner: Duke
+Winner: Houston
+Winner: Missouri
+Winner: Florida
+Winner: Duke
+Winner: Houston
+Winner: Michigan St.
+Winner: Tennessee
+[('Duke', 1.0), ('Michigan St.', 1), ('Tennessee', 0.6666666666666667), ('Auburn', 0.6666666666666667), ('Florida', 0.625), ('Houston', 0.625), ('Wisconsin', 0.5000000000000001), ('Alabama', 0.4166666666666667), ('Texas Tech', 0.4166666666666667), ('Texas A&M', 0.25000000000000006), ('Michigan', 0.20833333333333331), ('Arizona', 0.16666666666666669), ('Iowa St.', 0.16666666666666669), ('Purdue', 0.125), ('Illinois', 0.125), ('Maryland', 0.125), ('Missouri', 0.125), ('Kentucky', 0.08333333333333333), ('UCLA', 0.08333333333333333), ("St. John's", 0.08333333333333333), ('Marquette', 0.08333333333333333), ('Mississippi', 0.04166666666666667), ("Saint Mary's", 0.04166666666666667), ('Georgia', 0.04166666666666667), ('Oregon', 0.04166666666666667), ('Memphis', 0.04166666666666667), ('Arkansas', 0.0), ('BYU', 0.0), ('Mississippi St.', 0.0), ('UC San Diego', 0.0), ('Utah St.', 0.0), ('Kansas', 0.0), ('Creighton', 0.0), ('Baylor', 0.0), ('Louisville', 0.0)]
 
 Round of 64
 teams in round:  ['Auburn (1)', 'Alabama St (16)', 'Louisville (8)', 'Creighton (9)', 'Michigan (5)', 'UC San Diego (12)', 'Texas A&M (4)', 'Yale (13)', 'Mississippi (6)', 'North Carolina (11)', 'Iowa St. (3)', 'Lipscomb (14)', 'Marquette (7)', 'New Mexico (10)', 'Michigan St. (2)', 'Bryant (15)', 'Florida (1)', 'Norfolk St. (16)', 'Connecticut (8)', 'Oklahoma (9)', 'Memphis (5)', 'Colorado St. (12)', 'Maryland (4)', 'Grand Canyon (13)', 'Missouri (6)', 'Drake (11)', 'Texas Tech (3)', 'UNC Wilmington (14)', 'Kansas (7)', 'Arkansas (10)', "St. John's (2)", 'Nebraska Omaha (15)', 'Duke (1)', 'American (16)', 'Mississippi St. (8)', 'Baylor (9)', 'Oregon (5)', 'Liberty (12)', 'Arizona (4)', 'Akron (13)', 'BYU (6)', 'VCU (11)', 'Wisconsin (3)', 'Montana (14)', "Saint Mary's (7)", 'Vanderbilt (10)', 'Alabama (2)', 'Robert Morris (15)', 'Houston (1)', 'SIUE (16)', 'Gonzaga (8)', 'Georgia (9)', 'Clemson (5)', 'McNeese (12)', 'Purdue (4)', 'High Point (13)', 'Illinois (6)', 'Xavier (11)', 'Kentucky (3)', 'Troy (14)', 'UCLA (7)', 'Utah St. (10)', 'Tennessee (2)', 'Wofford (15)']
-Auburn(1) over Alabama St(16)
-Michigan(5) over UC San Diego(12)
+Louisville(8) over Creighton(9) UNEXPECTED
 Texas A&M(4) over Yale(13)
-Mississippi(6) over North Carolina(11) UNEXPECTED
 Iowa St.(3) over Lipscomb(14)
 Marquette(7) over New Mexico(10)
 Michigan St.(2) over Bryant(15)
 Florida(1) over Norfolk St.(16)
-Connecticut(8) over Oklahoma(9)
-Memphis(5) over Colorado St.(12) UNEXPECTED
+Connecticut(8) over Oklahoma(9) UNEXPECTED
 Missouri(6) over Drake(11)
 Texas Tech(3) over UNC Wilmington(14)
 Kansas(7) over Arkansas(10) UNEXPECTED
 St. John's(2) over Nebraska Omaha(15)
 Duke(1) over American(16)
-Arizona(4) over Akron(13)
-BYU(6) over VCU(11)
-Wisconsin(3) over Montana(14)
-Alabama(2) over Robert Morris(15)
-Houston(1) over SIUE(16)
-Purdue(4) over High Point(13)
-Kentucky(3) over Troy(14)
-UCLA(7) over Utah St.(10)
-Tennessee(2) over Wofford(15)
-Upset rate for this round: 75.00%
-
-Round of 32
-teams in round:  ['Auburn (1)', 'Creighton (9)', 'Michigan (5)', 'Texas A&M (4)', 'Mississippi (6)', 'Iowa St. (3)', 'Marquette (7)', 'Michigan St. (2)', 'Florida (1)', 'Connecticut (8)', 'Memphis (5)', 'Grand Canyon (13)', 'Missouri (6)', 'Texas Tech (3)', 'Kansas (7)', "St. John's (2)", 'Duke (1)', 'Baylor (9)', 'Liberty (12)', 'Arizona (4)', 'BYU (6)', 'Wisconsin (3)', 'Vanderbilt (10)', 'Alabama (2)', 'Houston (1)', 'Georgia (9)', 'McNeese (12)', 'Purdue (4)', 'Xavier (11)', 'Kentucky (3)', 'UCLA (7)', 'Tennessee (2)']
-Iowa St.(3) over Mississippi(6)
-Michigan St.(2) over Marquette(7)
-Florida(1) over Connecticut(8)
-St. John's(2) over Kansas(7)
-Duke(1) over Baylor(9)
-Arizona(4) over Liberty(12)
-Wisconsin(3) over BYU(6)
-Alabama(2) over Vanderbilt(10)
-Houston(1) over Georgia(9)
-Purdue(4) over McNeese(12)
-Tennessee(2) over UCLA(7)
-Upset rate for this round: 68.75%
-
-Round of 16
-teams in round:  ['Creighton (9)', 'Michigan (5)', 'Iowa St. (3)', 'Michigan St. (2)', 'Florida (1)', 'Grand Canyon (13)', 'Missouri (6)', "St. John's (2)", 'Duke (1)', 'Arizona (4)', 'Wisconsin (3)', 'Alabama (2)', 'Houston (1)', 'Purdue (4)', 'Xavier (11)', 'Tennessee (2)']
-Michigan(5) over Creighton(9)
-Florida(1) over Grand Canyon(13)
-St. John's(2) over Missouri(6) UNEXPECTED
-Alabama(2) over Wisconsin(3) UNEXPECTED
-Tennessee(2) over Xavier(11)
-Upset rate for this round: 62.50%
-
-Round of 8
-teams in round:  ['Michigan (5)', 'Iowa St. (3)', 'Florida (1)', "St. John's (2)", 'Arizona (4)', 'Alabama (2)', 'Purdue (4)', 'Tennessee (2)']
-Iowa St.(3) over Michigan(5)
-Alabama(2) over Arizona(4)
-Tennessee(2) over Purdue(4)
-Upset rate for this round: 75.00%
-
-Round of 4
-teams in round:  ['Iowa St. (3)', "St. John's (2)", 'Alabama (2)', 'Tennessee (2)']
-Upset rate for this round: 0.00%
-
-Round of 2
-teams in round:  ['Iowa St. (3)', 'Tennessee (2)']
-Tennessee(2) over Iowa St.(3)
-Upset rate for this round: 100.00%
-
-Round of 1
-teams in round:  ['Tennessee (2)']
-Winner: Tennessee
-Re-running because Tennessee is not in the top 4 power scores
-
-Round of 64
-teams in round:  ['Auburn (1)', 'Alabama St (16)', 'Louisville (8)', 'Creighton (9)', 'Michigan (5)', 'UC San Diego (12)', 'Texas A&M (4)', 'Yale (13)', 'Mississippi (6)', 'North Carolina (11)', 'Iowa St. (3)', 'Lipscomb (14)', 'Marquette (7)', 'New Mexico (10)', 'Michigan St. (2)', 'Bryant (15)', 'Florida (1)', 'Norfolk St. (16)', 'Connecticut (8)', 'Oklahoma (9)', 'Memphis (5)', 'Colorado St. (12)', 'Maryland (4)', 'Grand Canyon (13)', 'Missouri (6)', 'Drake (11)', 'Texas Tech (3)', 'UNC Wilmington (14)', 'Kansas (7)', 'Arkansas (10)', "St. John's (2)", 'Nebraska Omaha (15)', 'Duke (1)', 'American (16)', 'Mississippi St. (8)', 'Baylor (9)', 'Oregon (5)', 'Liberty (12)', 'Arizona (4)', 'Akron (13)', 'BYU (6)', 'VCU (11)', 'Wisconsin (3)', 'Montana (14)', "Saint Mary's (7)", 'Vanderbilt (10)', 'Alabama (2)', 'Robert Morris (15)', 'Houston (1)', 'SIUE (16)', 'Gonzaga (8)', 'Georgia (9)', 'Clemson (5)', 'McNeese (12)', 'Purdue (4)', 'High Point (13)', 'Illinois (6)', 'Xavier (11)', 'Kentucky (3)', 'Troy (14)', 'UCLA (7)', 'Utah St. (10)', 'Tennessee (2)', 'Wofford (15)']
-Auburn(1) over Alabama St(16)
-Michigan(5) over UC San Diego(12)
-Mississippi(6) over North Carolina(11) UNEXPECTED
-Marquette(7) over New Mexico(10)
-Michigan St.(2) over Bryant(15)
-Florida(1) over Norfolk St.(16)
-Connecticut(8) over Oklahoma(9)
-Memphis(5) over Colorado St.(12) UNEXPECTED
-Texas Tech(3) over UNC Wilmington(14)
-St. John's(2) over Nebraska Omaha(15)
-Duke(1) over American(16)
 Mississippi St.(8) over Baylor(9) UNEXPECTED
+Arizona(4) over Akron(13)
 Wisconsin(3) over Montana(14)
 Saint Mary's(7) over Vanderbilt(10)
 Alabama(2) over Robert Morris(15)
 Houston(1) over SIUE(16)
-Gonzaga(8) over Georgia(9)
-Clemson(5) over McNeese(12)
+Gonzaga(8) over Georgia(9) UNEXPECTED
+Clemson(5) over McNeese(12) UNEXPECTED
 Purdue(4) over High Point(13)
+Illinois(6) over Xavier(11)
+Kentucky(3) over Troy(14)
 Tennessee(2) over Wofford(15)
-Upset rate for this round: 62.50%
+Upset rate for this round: 75.00%
 
 Round of 32
-teams in round:  ['Auburn (1)', 'Creighton (9)', 'Michigan (5)', 'Yale (13)', 'Mississippi (6)', 'Lipscomb (14)', 'Marquette (7)', 'Michigan St. (2)', 'Florida (1)', 'Connecticut (8)', 'Memphis (5)', 'Grand Canyon (13)', 'Drake (11)', 'Texas Tech (3)', 'Arkansas (10)', "St. John's (2)", 'Duke (1)', 'Mississippi St. (8)', 'Liberty (12)', 'Akron (13)', 'VCU (11)', 'Wisconsin (3)', "Saint Mary's (7)", 'Alabama (2)', 'Houston (1)', 'Gonzaga (8)', 'Clemson (5)', 'Purdue (4)', 'Xavier (11)', 'Troy (14)', 'Utah St. (10)', 'Tennessee (2)']
-Auburn(1) over Creighton(9)
+teams in round:  ['Alabama St (16)', 'Louisville (8)', 'UC San Diego (12)', 'Texas A&M (4)', 'North Carolina (11)', 'Iowa St. (3)', 'Marquette (7)', 'Michigan St. (2)', 'Florida (1)', 'Connecticut (8)', 'Colorado St. (12)', 'Grand Canyon (13)', 'Missouri (6)', 'Texas Tech (3)', 'Kansas (7)', "St. John's (2)", 'Duke (1)', 'Mississippi St. (8)', 'Liberty (12)', 'Arizona (4)', 'VCU (11)', 'Wisconsin (3)', "Saint Mary's (7)", 'Alabama (2)', 'Houston (1)', 'Gonzaga (8)', 'Clemson (5)', 'Purdue (4)', 'Illinois (6)', 'Kentucky (3)', 'Utah St. (10)', 'Tennessee (2)']
+Texas A&M(4) over UC San Diego(12)
 Michigan St.(2) over Marquette(7)
 Florida(1) over Connecticut(8)
-Memphis(5) over Grand Canyon(13) UNEXPECTED
-Texas Tech(3) over Drake(11)
-St. John's(2) over Arkansas(10)
+Colorado St.(12) over Grand Canyon(13) UNEXPECTED
+Texas Tech(3) over Missouri(6)
+St. John's(2) over Kansas(7)
 Duke(1) over Mississippi St.(8)
-Liberty(12) over Akron(13) UNEXPECTED
+Arizona(4) over Liberty(12)
 Wisconsin(3) over VCU(11)
-Purdue(4) over Clemson(5) UNEXPECTED
+Alabama(2) over Saint Mary's(7)
+Houston(1) over Gonzaga(8)
+Purdue(4) over Clemson(5)
 Tennessee(2) over Utah St.(10)
-Upset rate for this round: 68.75%
+Upset rate for this round: 81.25%
 
 Round of 16
-teams in round:  ['Auburn (1)', 'Yale (13)', 'Lipscomb (14)', 'Michigan St. (2)', 'Florida (1)', 'Memphis (5)', 'Texas Tech (3)', "St. John's (2)", 'Duke (1)', 'Liberty (12)', 'Wisconsin (3)', "Saint Mary's (7)", 'Gonzaga (8)', 'Purdue (4)', 'Troy (14)', 'Tennessee (2)']
-Auburn(1) over Yale(13)
-Michigan St.(2) over Lipscomb(14)
-Florida(1) over Memphis(5)
-St. John's(2) over Texas Tech(3)
-Duke(1) over Liberty(12)
-Purdue(4) over Gonzaga(8) UNEXPECTED
-Tennessee(2) over Troy(14)
-Upset rate for this round: 87.50%
+teams in round:  ['Alabama St (16)', 'Texas A&M (4)', 'North Carolina (11)', 'Michigan St. (2)', 'Florida (1)', 'Colorado St. (12)', 'Texas Tech (3)', "St. John's (2)", 'Duke (1)', 'Arizona (4)', 'Wisconsin (3)', 'Alabama (2)', 'Houston (1)', 'Purdue (4)', 'Illinois (6)', 'Tennessee (2)']
+Texas A&M(4) over Alabama St(16)
+Florida(1) over Colorado St.(12)
+Alabama(2) over Wisconsin(3) UNEXPECTED
+Upset rate for this round: 37.50%
 
 Round of 8
-teams in round:  ['Auburn (1)', 'Michigan St. (2)', 'Florida (1)', "St. John's (2)", 'Duke (1)', "Saint Mary's (7)", 'Purdue (4)', 'Tennessee (2)']
-Duke(1) over Saint Mary's(7)
-Tennessee(2) over Purdue(4)
-Upset rate for this round: 50.00%
+teams in round:  ['Texas A&M (4)', 'North Carolina (11)', 'Florida (1)', 'Texas Tech (3)', 'Arizona (4)', 'Alabama (2)', 'Purdue (4)', 'Illinois (6)']
+Texas A&M(4) over North Carolina(11)
+Florida(1) over Texas Tech(3)
+Alabama(2) over Arizona(4)
+Upset rate for this round: 75.00%
 
 Round of 4
-teams in round:  ['Michigan St. (2)', "St. John's (2)", 'Duke (1)', 'Tennessee (2)']
-Duke(1) over Tennessee(2)
+teams in round:  ['Texas A&M (4)', 'Florida (1)', 'Alabama (2)', 'Illinois (6)']
+Florida(1) over Texas A&M(4)
+Alabama(2) over Illinois(6)
+Upset rate for this round: 100.00%
+
+Round of 2
+teams in round:  ['Florida (1)', 'Alabama (2)']
+Upset rate for this round: 0.00%
+
+Round of 1
+teams in round:  ['Alabama (2)']
+Winner: Alabama
+Re-running because Alabama is not in the top 4 power scores
+
+Round of 64
+teams in round:  ['Auburn (1)', 'Alabama St (16)', 'Louisville (8)', 'Creighton (9)', 'Michigan (5)', 'UC San Diego (12)', 'Texas A&M (4)', 'Yale (13)', 'Mississippi (6)', 'North Carolina (11)', 'Iowa St. (3)', 'Lipscomb (14)', 'Marquette (7)', 'New Mexico (10)', 'Michigan St. (2)', 'Bryant (15)', 'Florida (1)', 'Norfolk St. (16)', 'Connecticut (8)', 'Oklahoma (9)', 'Memphis (5)', 'Colorado St. (12)', 'Maryland (4)', 'Grand Canyon (13)', 'Missouri (6)', 'Drake (11)', 'Texas Tech (3)', 'UNC Wilmington (14)', 'Kansas (7)', 'Arkansas (10)', "St. John's (2)", 'Nebraska Omaha (15)', 'Duke (1)', 'American (16)', 'Mississippi St. (8)', 'Baylor (9)', 'Oregon (5)', 'Liberty (12)', 'Arizona (4)', 'Akron (13)', 'BYU (6)', 'VCU (11)', 'Wisconsin (3)', 'Montana (14)', "Saint Mary's (7)", 'Vanderbilt (10)', 'Alabama (2)', 'Robert Morris (15)', 'Houston (1)', 'SIUE (16)', 'Gonzaga (8)', 'Georgia (9)', 'Clemson (5)', 'McNeese (12)', 'Purdue (4)', 'High Point (13)', 'Illinois (6)', 'Xavier (11)', 'Kentucky (3)', 'Troy (14)', 'UCLA (7)', 'Utah St. (10)', 'Tennessee (2)', 'Wofford (15)']
+Louisville(8) over Creighton(9) UNEXPECTED
+Texas A&M(4) over Yale(13)
+Mississippi(6) over North Carolina(11)
+Iowa St.(3) over Lipscomb(14)
+Maryland(4) over Grand Canyon(13)
+Texas Tech(3) over UNC Wilmington(14)
+St. John's(2) over Nebraska Omaha(15)
+Duke(1) over American(16)
+Mississippi St.(8) over Baylor(9) UNEXPECTED
+Oregon(5) over Liberty(12)
+Wisconsin(3) over Montana(14)
+Saint Mary's(7) over Vanderbilt(10)
+Alabama(2) over Robert Morris(15)
+Houston(1) over SIUE(16)
+Clemson(5) over McNeese(12) UNEXPECTED
+Purdue(4) over High Point(13)
+UCLA(7) over Utah St.(10)
+Tennessee(2) over Wofford(15)
+Upset rate for this round: 56.25%
+
+Round of 32
+teams in round:  ['Alabama St (16)', 'Louisville (8)', 'UC San Diego (12)', 'Texas A&M (4)', 'Mississippi (6)', 'Iowa St. (3)', 'New Mexico (10)', 'Bryant (15)', 'Norfolk St. (16)', 'Oklahoma (9)', 'Colorado St. (12)', 'Maryland (4)', 'Drake (11)', 'Texas Tech (3)', 'Arkansas (10)', "St. John's (2)", 'Duke (1)', 'Mississippi St. (8)', 'Oregon (5)', 'Akron (13)', 'VCU (11)', 'Wisconsin (3)', "Saint Mary's (7)", 'Alabama (2)', 'Houston (1)', 'Georgia (9)', 'Clemson (5)', 'Purdue (4)', 'Xavier (11)', 'Troy (14)', 'UCLA (7)', 'Tennessee (2)']
+New Mexico(10) over Bryant(15) UNEXPECTED
+Oklahoma(9) over Norfolk St.(16) UNEXPECTED
+Texas Tech(3) over Drake(11)
+St. John's(2) over Arkansas(10)
+Oregon(5) over Akron(13)
+Wisconsin(3) over VCU(11)
+Houston(1) over Georgia(9)
+Purdue(4) over Clemson(5)
+Xavier(11) over Troy(14) UNEXPECTED
+Tennessee(2) over UCLA(7)
+Upset rate for this round: 62.50%
+
+Round of 16
+teams in round:  ['Alabama St (16)', 'UC San Diego (12)', 'Mississippi (6)', 'New Mexico (10)', 'Oklahoma (9)', 'Colorado St. (12)', 'Texas Tech (3)', "St. John's (2)", 'Mississippi St. (8)', 'Oregon (5)', 'Wisconsin (3)', "Saint Mary's (7)", 'Houston (1)', 'Purdue (4)', 'Xavier (11)', 'Tennessee (2)']
+Mississippi(6) over New Mexico(10)
+St. John's(2) over Texas Tech(3) UNEXPECTED
+Oregon(5) over Mississippi St.(8)
+Wisconsin(3) over Saint Mary's(7)
+Upset rate for this round: 50.00%
+
+Round of 8
+teams in round:  ['Alabama St (16)', 'Mississippi (6)', 'Colorado St. (12)', "St. John's (2)", 'Oregon (5)', 'Wisconsin (3)', 'Purdue (4)', 'Xavier (11)']
+Mississippi(6) over Alabama St(16)
+St. John's(2) over Colorado St.(12)
+Wisconsin(3) over Oregon(5)
+Purdue(4) over Xavier(11)
+Upset rate for this round: 100.00%
+
+Round of 4
+teams in round:  ['Mississippi (6)', "St. John's (2)", 'Wisconsin (3)', 'Purdue (4)']
+St. John's(2) over Mississippi(6)
+Upset rate for this round: 50.00%
+
+Round of 2
+teams in round:  ["St. John's (2)", 'Purdue (4)']
+Upset rate for this round: 0.00%
+
+Round of 1
+teams in round:  ['Purdue (4)']
+Winner: Purdue
+Re-running because Purdue is not in the top 4 power scores
+
+Round of 64
+teams in round:  ['Auburn (1)', 'Alabama St (16)', 'Louisville (8)', 'Creighton (9)', 'Michigan (5)', 'UC San Diego (12)', 'Texas A&M (4)', 'Yale (13)', 'Mississippi (6)', 'North Carolina (11)', 'Iowa St. (3)', 'Lipscomb (14)', 'Marquette (7)', 'New Mexico (10)', 'Michigan St. (2)', 'Bryant (15)', 'Florida (1)', 'Norfolk St. (16)', 'Connecticut (8)', 'Oklahoma (9)', 'Memphis (5)', 'Colorado St. (12)', 'Maryland (4)', 'Grand Canyon (13)', 'Missouri (6)', 'Drake (11)', 'Texas Tech (3)', 'UNC Wilmington (14)', 'Kansas (7)', 'Arkansas (10)', "St. John's (2)", 'Nebraska Omaha (15)', 'Duke (1)', 'American (16)', 'Mississippi St. (8)', 'Baylor (9)', 'Oregon (5)', 'Liberty (12)', 'Arizona (4)', 'Akron (13)', 'BYU (6)', 'VCU (11)', 'Wisconsin (3)', 'Montana (14)', "Saint Mary's (7)", 'Vanderbilt (10)', 'Alabama (2)', 'Robert Morris (15)', 'Houston (1)', 'SIUE (16)', 'Gonzaga (8)', 'Georgia (9)', 'Clemson (5)', 'McNeese (12)', 'Purdue (4)', 'High Point (13)', 'Illinois (6)', 'Xavier (11)', 'Kentucky (3)', 'Troy (14)', 'UCLA (7)', 'Utah St. (10)', 'Tennessee (2)', 'Wofford (15)']
+Auburn(1) over Alabama St(16)
+Louisville(8) over Creighton(9) UNEXPECTED
+Texas A&M(4) over Yale(13)
+Mississippi(6) over North Carolina(11)
+Iowa St.(3) over Lipscomb(14)
+Marquette(7) over New Mexico(10)
+Michigan St.(2) over Bryant(15)
+Florida(1) over Norfolk St.(16)
+Connecticut(8) over Oklahoma(9) UNEXPECTED
+Memphis(5) over Colorado St.(12)
+Missouri(6) over Drake(11)
+Texas Tech(3) over UNC Wilmington(14)
+Kansas(7) over Arkansas(10) UNEXPECTED
+St. John's(2) over Nebraska Omaha(15)
+Duke(1) over American(16)
+Mississippi St.(8) over Baylor(9) UNEXPECTED
+Oregon(5) over Liberty(12)
+Arizona(4) over Akron(13)
+Wisconsin(3) over Montana(14)
+Alabama(2) over Robert Morris(15)
+Houston(1) over SIUE(16)
+Gonzaga(8) over Georgia(9) UNEXPECTED
+Clemson(5) over McNeese(12) UNEXPECTED
+Illinois(6) over Xavier(11)
+Kentucky(3) over Troy(14)
+Tennessee(2) over Wofford(15)
+Upset rate for this round: 81.25%
+
+Round of 32
+teams in round:  ['Auburn (1)', 'Louisville (8)', 'UC San Diego (12)', 'Texas A&M (4)', 'Mississippi (6)', 'Iowa St. (3)', 'Marquette (7)', 'Michigan St. (2)', 'Florida (1)', 'Connecticut (8)', 'Memphis (5)', 'Grand Canyon (13)', 'Missouri (6)', 'Texas Tech (3)', 'Kansas (7)', "St. John's (2)", 'Duke (1)', 'Mississippi St. (8)', 'Oregon (5)', 'Arizona (4)', 'VCU (11)', 'Wisconsin (3)', 'Vanderbilt (10)', 'Alabama (2)', 'Houston (1)', 'Gonzaga (8)', 'Clemson (5)', 'High Point (13)', 'Illinois (6)', 'Kentucky (3)', 'Utah St. (10)', 'Tennessee (2)']
+Texas A&M(4) over UC San Diego(12)
+Iowa St.(3) over Mississippi(6)
+Michigan St.(2) over Marquette(7)
+Florida(1) over Connecticut(8)
+Texas Tech(3) over Missouri(6)
+St. John's(2) over Kansas(7)
+Duke(1) over Mississippi St.(8)
+Arizona(4) over Oregon(5)
+Wisconsin(3) over VCU(11)
+Alabama(2) over Vanderbilt(10)
+Houston(1) over Gonzaga(8)
+Clemson(5) over High Point(13) UNEXPECTED
+Kentucky(3) over Illinois(6) UNEXPECTED
+Tennessee(2) over Utah St.(10)
+Upset rate for this round: 87.50%
+
+Round of 16
+teams in round:  ['Louisville (8)', 'Texas A&M (4)', 'Iowa St. (3)', 'Michigan St. (2)', 'Florida (1)', 'Grand Canyon (13)', 'Texas Tech (3)', "St. John's (2)", 'Duke (1)', 'Arizona (4)', 'Wisconsin (3)', 'Alabama (2)', 'Houston (1)', 'Clemson (5)', 'Kentucky (3)', 'Tennessee (2)']
+Texas A&M(4) over Louisville(8)
+Michigan St.(2) over Iowa St.(3)
+Duke(1) over Arizona(4)
+Houston(1) over Clemson(5)
+Tennessee(2) over Kentucky(3)
+Upset rate for this round: 62.50%
+
+Round of 8
+teams in round:  ['Texas A&M (4)', 'Michigan St. (2)', 'Grand Canyon (13)', 'Texas Tech (3)', 'Duke (1)', 'Wisconsin (3)', 'Houston (1)', 'Tennessee (2)']
+Michigan St.(2) over Texas A&M(4)
+Texas Tech(3) over Grand Canyon(13)
+Duke(1) over Wisconsin(3)
+Houston(1) over Tennessee(2) UNEXPECTED
+Upset rate for this round: 100.00%
+
+Round of 4
+teams in round:  ['Michigan St. (2)', 'Texas Tech (3)', 'Duke (1)', 'Houston (1)']
+Michigan St.(2) over Texas Tech(3)
 Upset rate for this round: 50.00%
 
 Round of 2

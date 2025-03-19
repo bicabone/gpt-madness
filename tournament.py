@@ -191,7 +191,7 @@ class Tournament:
         power_scores_ = cls.calculate_power_scores(frequencies)
 
         # Go green
-        # power_scores_['Michigan St.'] = 1
+        power_scores_['Michigan St.'] = 1
         sorted_power_scores = sorted(power_scores_.items(), key=lambda x: x[1], reverse=True)
         print(sorted_power_scores)
 
@@ -237,7 +237,7 @@ if __name__ == "__main__":
     parser.add_argument(
         '-z', '--noise',
         type=float,
-        default=0.5,
+        default=0.6,
         help="Noise level from 0 to 1. Higher noise yields more upsets."
     )
     parser.add_argument(
