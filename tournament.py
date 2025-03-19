@@ -190,7 +190,8 @@ class Tournament:
         # Calculate the power scores
         power_scores_ = cls.calculate_power_scores(frequencies)
 
-        # print power scores sorted by value descending
+        # Go green
+        # power_scores_['Michigan St.'] = 1
         sorted_power_scores = sorted(power_scores_.items(), key=lambda x: x[1], reverse=True)
         print(sorted_power_scores)
 
@@ -242,7 +243,7 @@ if __name__ == "__main__":
     parser.add_argument(
         '-n', '--num_iterations',
         type=int,
-        default=100,
+        default=200,
         help="The number of simulated iterations to perform."
     )
     kwargs_ = vars(parser.parse_args())
