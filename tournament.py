@@ -230,7 +230,7 @@ if __name__ == "__main__":
     )
     parser.add_argument(
         '-f', '--file',
-        default='2023ncaab.csv',
+        default='2025ncaab.csv',
         help="Path to the data file."
     )
     parser.add_argument(
